@@ -8,7 +8,7 @@ function Header() {
             <div className={style.leftContainer}>
                 <img className={style.logoImg} src={LogoSvg} alt="" />
                 <div className={style.wrapper}>
-                    <div className={style.name}>Чорнобаївка</div>
+                    <div className={style.name}>Житомир Pizza</div>
                     <div className={style.desc}>Слава Україні. Героям Слава</div>
                 </div>
             </div>

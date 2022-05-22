@@ -1,0 +1,30 @@
+.categories {
+    width: max-content;
+    height: max-content;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 40px;
+    font-weight: 600;
+
+    .item {
+        padding: 5px 15px;
+        color: #222;
+        background: #F9F9F9;
+        border-radius: 20px;
+        margin-left: 10px;
+        
+        transition: .2s;
+        
+        &:hover {
+            color: #fff;
+            background: #282828;
+            cursor: pointer;
+        }
+    }
+
+
+    
+
+}
